@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @0xTrevor
-- 👀 I’m interested in ... Project Manager 
+- 👋 Hi, I’m Trevor
+- 👀 I’m interested in ... Product Manager 
 - 🌱 I’m currently learning ... Frontend
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
